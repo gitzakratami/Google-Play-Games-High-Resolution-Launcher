@@ -44,11 +44,12 @@ The difference is significant. Below is a comparison between the game's default 
 
 This feature is required for the script to work. You only need to do this once.
 
-*   **For AMD:** Open AMD Radeon Software > Gaming > Display > Enable **Virtual Super Resolution**.
+*   **For AMD:** Open AMD Radeon Software > Settings > Display > Enable **Virtual Super Resolution**.
 *   **For NVIDIA:** Open NVIDIA Control Panel > Manage 3D Settings > DSR - Factors > Select a scaling factor (e.g., 2.25x or 4.00x).
 
-*Miejsce na zdjęcie pokazujące włączoną opcję VSR/DSR w panelu sterowania karty graficznej.*
-![Enable VSR/DSR](https://i.imgur.com/your-gpu-panel-image-url.png)
+For AMD:
+
+![Enable VSR](https://github.com/user-attachments/assets/04c28723-78bb-49e7-9a1d-db16ab933372)
 
 ### 2. Find Your Game's URL
 
@@ -58,8 +59,7 @@ The shortcuts created by Google Play Games are special links, and their full add
 2.  A window will pop up and list all your installed Google Play games with their full Target URLs, highlighted in green.
 3.  Copy the entire URL for the game you want to launch.
 
-*Miejsce na zdjęcie pokazujące działanie skryptu Find-GameURL.ps1.*
-![PowerShell Script Output](https://i.imgur.com/your-powershell-output-image-url.png)
+![PowerShell Script Output](https://github.com/user-attachments/assets/26028877-83a1-493f-b3ee-0190f9fb21d5)
 
 ### 3. Configure the Launcher Script
 
