@@ -1,6 +1,6 @@
 @echo off
 :: =================================================================================
-:: Google Play Games - High-Fidelity Launcher
+:: Google Play Games High-Resolution Launcher
 ::
 :: This script forces a game to render at a higher resolution by temporarily
 :: changing the desktop resolution, launching the game, and then changing it back.
