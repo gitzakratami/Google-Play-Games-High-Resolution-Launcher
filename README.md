@@ -25,7 +25,7 @@ The difference is significant. On the left is the game's default blurry renderin
 | Before (Default Rendering) | After (Supersampling with this script) |
 | :---: | :---: |
 | *Miejsce na Twoje zdjęcie PRZED* | *Miejsce na Twoje zdjęcie PO* |
-| ![Before](https://i.imgur.com/your-before-image-url.png) | ![After](https://i.imgur.com/your-after-image-url.png) |
+| ![Before](<img width="571" height="571" alt="Image" src="https://github.com/user-attachments/assets/cbd0d1f2-f390-4046-ac53-8ee197e8556f" />) | ![After](https://i.imgur.com/your-after-image-url.png) |
 
 ---
 
