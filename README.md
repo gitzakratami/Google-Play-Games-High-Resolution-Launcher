@@ -20,12 +20,13 @@ The result is a crystal-clear, sharp, and stable image, far superior to what the
 
 ## Showcase: Before & After
 
-The difference is significant. On the left is the game's default blurry rendering. On the right is the sharp, detailed image produced by this script.
+The difference is significant. Below is a comparison between the game's default blurry rendering and the sharp, detailed image produced by this script.
 
-| Before (Default Rendering) | After (Supersampling with this script) |
-| :---: | :---: |
-| *Miejsce na Twoje zdjęcie PRZED* | *Miejsce na Twoje zdjęcie PO* |
-| ![Before](https://github.com/user-attachments/assets/679563c5-9676-46ab-bae4-792ec254cec2) | ![After](https://github.com/user-attachments/assets/342f8f71-de09-4ce4-bb75-6e7168d73686) |
+### Before (Default Rendering)
+![Before](https://github.com/user-attachments/assets/cbd0d1f2-f390-4046-ac53-8ee197e8556f)
+
+### After (Supersampling with this script)
+![After](https://i.imgur.com/your-after-image-url.png)
 
 ---
 
