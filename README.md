@@ -1,4 +1,4 @@
-# Google Play Games - High-Fidelity Launcher
+# Google-Play-Games-High-Resolution-Launcher
 
 A simple yet powerful solution to dramatically improve the image quality of Google Play Games on PC by forcing a high-resolution rendering technique known as Supersampling.
 
@@ -79,7 +79,9 @@ set NativeResolution=/x:1920 /y:1080
 REM The delay in seconds to wait for the game to load. Increase if your PC is slower.
 set WaitTimeInSeconds=10
 
-:: ------------------------------------```
+:: ------------------------------------
+```
+
 *   **`GAME_URL`**: Paste the full URL you copied in the previous step.
 *   **`HighResolution` / `NativeResolution`**: Adjust these to match your setup.
 *   **`WaitTimeInSeconds`**: Increase this value if the game loads slowly on your PC.
